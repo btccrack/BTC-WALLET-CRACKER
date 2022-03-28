@@ -12,7 +12,5 @@ ALL WALLET ADDRESS ARE PROTECTED ON GOOGLE SERVECES!
 ALL FUNDS THAT ARE FOUND ON WALLETS WILL BE TRANSFERED DIRECTLY TO YOUR WALLET
 
 btccrack585@gmail.com <- mail for customer support!
-
                       <- send mail if you didnt recieve funds!
-
                       <- send mail if you have trouble connecting to server!
