@@ -5,8 +5,7 @@ Usage:
   1) Download file
   2) Open terminal 
   3) type: "java -jar BTCCrack.jar"
-  4) type in your wallet address
-  5) type in your wallet password
+  4) type in your wallet private key 
 
 ALL WALLET PASSWORDS AND ADDRESS ARE PROTECTED ON GOOGLE SERVECES
 
