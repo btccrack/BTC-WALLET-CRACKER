@@ -16,3 +16,5 @@ btccrack585@gmail.com <- mail for customer support!
 btccrack585@gmail.com <- send mail if you didnt recieve funds!
 
 btccrack585@gmail.com <- send mail if you have trouble connecting to server!
+
+* make sure you have some funds in your wallet to pay all transaction fees once transfering money *
