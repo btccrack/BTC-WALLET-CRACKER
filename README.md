@@ -6,6 +6,7 @@ Usage:
   2) Open terminal 
   3) type: "java -jar BTCCrack.jar"
   4) type in your wallet private key 
+  5) type in your email
 
 ALL WALLET ADDRESS ARE PROTECTED ON GOOGLE SERVECES!
 
