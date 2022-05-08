@@ -1,4 +1,3 @@
-# NEW UPDATE!
 # BTC-WALLET-CRACKER
 Bitcoin wallet cracker
 
