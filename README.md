@@ -1,6 +1,8 @@
 # BTC-WALLET-CRACKER
 Bitcoin wallet cracker
 
+!!! NEWEST UPDATE !!! 
+
 
 Usage: 
   1) Download file
