@@ -1,4 +1,4 @@
-# BTC-WALLET-CRACKER
+# BTC-WALLET-CRACKER  -  READY FOR USE  
 Bitcoin wallet cracker
 
 Usage: 
